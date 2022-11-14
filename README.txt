@@ -12,5 +12,3 @@ Primero Intentaría entender cuál es la funcionalidad, seguido si faltan datos,
 
 2.	¿Has utilizado algún sistema de control de versiones? ¿Cómo lo usabas? 
 Si, he utilizado git con github, a través de la terminal de Linux y de distintos IDEs, en Linux para crear una forma de actualización de software, y en los IDEs para trabajar.
-
-
